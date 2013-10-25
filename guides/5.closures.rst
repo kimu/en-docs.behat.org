@@ -3,7 +3,7 @@ Closures as Definitions and Hooks
 
 The official best way to add :doc:`step definitions </guides/2.definitions>`
 and :doc:`hooks </guides/3.hooks>` is to write them as class or instance
-methods of a :doc:`context class </guides/3.hooks>`. But step definitions
+methods of a :doc:`context class </guides/4.context>`. But step definitions
 can be written in other ways too.
 
 Some people dislike the verbosity of object-oriented PHP, where developers
