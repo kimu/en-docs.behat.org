@@ -223,7 +223,7 @@ can be extended by adding the ``And`` or ``But`` keyword:
         And [another outcome]
         But [another outcome]
 
-There's no actual difference between, ``Then``, ``And`` ``But`` or any of
+There's no actual difference between ``Then``, ``And``, ``But`` or any of
 the other words that start each line. These keywords are all made available
 so that your scenarios are natural and readable.
 
