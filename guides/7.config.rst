@@ -183,7 +183,7 @@ Available options are: ``bold``, ``underscore``, ``blink``, ``reverse``, ``conce
 Context
 ~~~~~~~
 
-Sometimes you may want to use a different default `context </guides/4.context>`_
+Sometimes you may want to use a different default :doc:`context </guides/4.context>`
 class or provide useful parameters for the context constructor from your
 ``behat.yml``. Use the ``context`` block to set these options:
 
