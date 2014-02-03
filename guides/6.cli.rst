@@ -174,6 +174,22 @@ This options will make the previous output more verbose:
 .. image:: /images/formatter-outline-expand.png
    :align: center
 
+.. code-block:: bash
+
+    $ behat --name="element of feature"
+
+Only execute the feature elements which match part of the given name or regex.
+
+If the element is part of feature-definition behat executes the whole feature, otherwise one or more scenarios.
+
+.. code-block:: bash
+
+    $ behat --rerun="return.log"
+
+Save list of failed scenarios into new file or use existing file to run only scenarios from it.
+
+If the file contains no scenarios, then all scenarios will executed.
+
 Help Options
 ------------
 
