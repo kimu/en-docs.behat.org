@@ -353,7 +353,7 @@ during execution, the step is marked as **failed**. Again, what you return from 
 definition does not affect the passing or failing of the step. Returning ``null``
 or ``false`` will not cause a step definition to fail.
 
-Let's pretend, that your ``FeatureContext`` has following code:
+Let's pretend that your ``FeatureContext`` has the following code:
 
 .. code-block:: php
 
